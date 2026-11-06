@@ -1,0 +1,5 @@
+Rapport des employees :
+Nom: Assiya , Age: 25 , Poste: engineer
+ Nom: maryam , Age: 23 , Poste: engineer
+ Nom: Bouchra , Age: 27 , Poste: Manager
+ Fin du rapport .
